@@ -3,3 +3,8 @@ numpy
 pandas
 pydeck
 streamlit
+sklearn.model_selection
+sklearn.ensemble
+sklearn
+shap
+sklearn.metrics
